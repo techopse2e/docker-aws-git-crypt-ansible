@@ -1,4 +1,4 @@
-FROM techopse2e/docker_ansible
+FROM techopse2e/docker-ansible
 
 ENV VERSION 0.5.0-2
 USER root
