@@ -1,6 +1,6 @@
 FROM techopse2e/docker-ansible
 
-ENV VERSION 0.5.0-2
+ENV VERSION 0.6.0-1
 USER root
 RUN apk --update add \
    bash \
